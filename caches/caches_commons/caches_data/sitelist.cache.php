@@ -5,7 +5,7 @@ return array (
     'siteid' => '1',
     'name' => '默认站点',
     'dirname' => '',
-    'domain' => 'http://localhost:20000/phpcms/962/',
+    'domain' => 'http://localhost:20000/phpcms/963/',
     'site_title' => 'PHPCMS演示站',
     'keywords' => 'PHPCMS演示站',
     'description' => 'PHPCMS演示站',
@@ -24,7 +24,7 @@ return array (
   \'watermark_pos\' => \'9\',
 )',
     'uuid' => '',
-    'url' => 'http://localhost:20000/phpcms/962/',
+    'url' => 'http://localhost:20000/phpcms/963/',
   ),
 );
 ?>
